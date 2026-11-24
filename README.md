@@ -21,7 +21,7 @@ Tailwind-Example-Page/
 ├    ├─ image7.jpg
 ├    ├─ image8.jpg
 ├    └─ image9.jpg
-├─ Night-time-2.jpg
+├─ Night-time-2.jpg     # Image used in main heading on page.
 ├─ README.md
-└─ index.html
+└─ index.html           # Landing page.
 ```
