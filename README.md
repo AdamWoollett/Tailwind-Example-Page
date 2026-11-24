@@ -10,18 +10,18 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 
 ## Project Structure
 ```
-Tailwind-Example-Page/<br>
-└─gallery/<br>              # Gallery images used on the page.
-├    ├─ image1.jpg<br>
-├    ├─ image2.jpg<br>
-├    ├─ image3.jpg<br>
-├    ├─ image4.jpg<br>
-├    ├─ image5.jpg<br>
-├    ├─ image6.jpg<br>
-├    ├─ image7.jpg<br>
-├    ├─ image8.jpg<br>
-├    └─ image9.jpg<br>
-├─ Night-time-2.jpg<br>
-├─ README.md<br>
-└─ index.html<br>
+Tailwind-Example-Page/
+└─gallery/              # Gallery images used on the page.
+├    ├─ image1.jpg
+├    ├─ image2.jpg
+├    ├─ image3.jpg
+├    ├─ image4.jpg
+├    ├─ image5.jpg
+├    ├─ image6.jpg
+├    ├─ image7.jpg
+├    ├─ image8.jpg
+├    └─ image9.jpg
+├─ Night-time-2.jpg
+├─ README.md
+└─ index.html
 ```
